@@ -8,7 +8,7 @@ on:
       - master
   release:
     types: released
-
+ 
 jobs:
   build:
     name: Build
